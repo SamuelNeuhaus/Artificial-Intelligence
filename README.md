@@ -63,14 +63,15 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **01/28**
-   - Meeting topics: QnA + Project ideas
+   - Meeting topics: QnA + Project ideas + Activities for the project
    - Due next week:
       - Concept map homework: Chapter 18
       - Quiz: Chapter 18
       - Chapter homework: None
       - Project: None
+   - Suggestion:
+      - Work on Activities 1 & 2 for the project
       
-
 1. **02/04**
    - Meeting topics: QnA
    - Due next week:
