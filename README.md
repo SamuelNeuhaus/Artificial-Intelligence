@@ -127,7 +127,10 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 ## 13. Homeworks
 There will be three types of homeworks: [project homeworks](./PROJECT.md), [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries, and some chapters have additional [homeworks](./HOMEWORKS.md). All homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
 
-## 14. Grade composition  
+## 14. Quizes
+There will be no comprehensive tests in this course. Along with concept map homeworks, after watching the chapter lectures, you will need to take a five minute quiz. The questions on the quiz will be be multiple-choice or true/false type. Please take this quiz right after watching the chapter lectures. Also, before taking the quiz, please refer to the [Proctorio instructions](https://github.com/badriadhikari/Artificial-Intelligence/blob/master/Proctorio_instructions.md).
+
+## 15. Grade composition  
 
 | Submission | Total Points |
 | :--- | ---: |
@@ -138,7 +141,7 @@ There will be three types of homeworks: [project homeworks](./PROJECT.md), [draw
 
 Note: One (1) bonus point will be assigned to everyone who completes the course evaluation survey. Please email me once you submit the survey.
 
-## 15.Grading scheme  
+## 16.Grading scheme  
 
 | Points      | Grade |
 | ----------- | ----- |
@@ -155,13 +158,13 @@ Note: One (1) bonus point will be assigned to everyone who completes the course 
 | <64% to 61% | D-    |
 | <61% to 0%  | F     |
 
-## 16. Resources  
+## 17. Resources  
 Your success in this class is important to me. If you need official accommodations, you have a right to have these met. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I encourage you to visit the following links to determine how you could improve your learning as well. 
 
 * [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
 * [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
 
-## 17. What students say
+## 18. What students say
 
 > "This course is like no other in the computer science department. Professor Badri went above and beyond to help us achieve the skills we will use in our work life after university. Many professors keep teaching the same theory stuff again and again and after the semester its impossible to recall what we studied but for this course we did a lot of programming and that we will remember and use in our actual life. I loved this class and other classes taught in this way." - A student in spring 2020 class.
 
