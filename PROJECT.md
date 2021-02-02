@@ -41,8 +41,8 @@ Below is the list of all phases and the outline of what you will be working on i
 1. Create a neural network model by adding another layer and obtain accuracy again. Here is an example:
     ```
     model1 = Sequential()
-    # 8 neurons in the first layer
-    model1.add(Dense(8, input_dim = len(XTRAIN[0, :]), activation = 'relu')) 
+    # 4 neurons in the first layer
+    model1.add(Dense(4, input_dim = len(XTRAIN[0, :]), activation = 'relu')) 
     # 1 neuron in the last layer
     model1.add(Dense(1, activation = 'sigmoid'))
     ```
