@@ -47,6 +47,7 @@ Below is the list of all phases and the outline of what you will be working on i
     model1.add(Dense(1, activation = 'sigmoid'))
     ```
 1. Experiment with various number of layers (by adding more and more layers) and also various number of neurons in each layer (4, 8, 16, 32, etc.) to find out which neural network architecture yields the highest accuracy on the validation set.
+1. Keep increasing the number of layers and the number of neurons in each layer until you start to observe a very slow training or Google Colab starts to crash.
 1. Create a table summarizing your experimental results and describe how you obtained the optimal neural network architecture.
 1. For the best neural network architecture, study the performance difference when linear activation is used instead of sigmoid (and vice versa)
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons?
@@ -59,6 +60,7 @@ Below is the list of all phases and the outline of what you will be working on i
      ```
 1. Plot your learning curves and include them in your report
 1. Discuss what architecture (how big) you need to overfit the data
+1. Discuss how callbacks (such as Model Checkpointing) helped you during your training experiments
 1. Evaluate your predictions (using Precision, Recall, MAE, MSE, etc.)
 1. [FOR GRADUATE STUDENTS ONLY] Discuss what architecture (how big) you do need to overfit when you have output as additional input feature
 1. [FOR GRADUATE STUDENTS ONLY] Code a function that represents your model
