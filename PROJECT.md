@@ -37,7 +37,7 @@ Below is the list of all phases and the outline of what you will be working on i
 ### Phase II. Model selection & evaluation
 1. Practice "Activities 3, 4, 5, 6, 7, 8 & 9" in [Neural networks using Tensorflow](https://github.com/badriadhikari/neural-networks-using-tensorflow).
 1. Split your data into training and validation sets.
-1. Obtain the accuracy on the validation set (MAE in case of regression) of a logistic regression model (linear regression model in case of regression)
+1. Obtain the accuracy on the validation set (MAE in case of regression) using a logistic regression model (linear regression model in case of regression)
 1. Create a neural network model by adding another layer and obtain accuracy again. Here is an example:
 ```
 model1 = Sequential()
@@ -46,7 +46,7 @@ model1.add(Dense(8, input_dim = len(XTRAIN[0, :]), activation = 'relu'))
 # 1 neuron in the last layer
 model1.add(Dense(1, activation = 'sigmoid'))
 ```
-1. Experiment with various number of layers (by adding more and more layers) and also various number of neurons in each layer (4, 8, 16, 32, etc.) and to find out which neural network architecture yields the highest accuracy on the validation set.
+1. Experiment with various number of layers (by adding more and more layers) and also various number of neurons in each layer (4, 8, 16, 32, etc.) to find out which neural network architecture yields the highest accuracy on the validation set.
 1. Create a table summarizing your experimental results and describe how you obtained the optimal neural network architecture.
 1. For the best neural network architecture, study the performance difference when linear activation is used instead of sigmoid (and vice versa)
    - How does your performance change when linear activations are used instead of sigmoid, in the last neuron and all other neurons?
