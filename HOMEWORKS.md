@@ -1,6 +1,6 @@
 # Chapter 3
 ## 1. Breadth-first search (BFS) tree
-This is not a programming activity. Tracing the [breadth-first search (BFS) algorithm](./homework/bfs.png) for a problem results in a BFS tree. [Here](./homework/bfstree.png) is an example BFS tree. Below is a map of India highlighting some of the international airports in the country. Nick wants to go to Amritsar from Chennai. In PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C).  
+This is not a programming activity. Tracing the [breadth-first search (BFS) algorithm](./homework/bfs.png) for a problem results in a BFS tree. [Here](./homework/bfstree.png) is an example BFS tree. Below is a map of India highlighting some of the international airports in the country. Nick wants to go to Amritsar from Chennai. In PAPER, draw a BFS tree for the graph of airport cities with starting node as Chennai (C). To submit, please take a picture and upload to Canvas.
 
 * Lectures: [Uninformed Search Algorithms](https://youtu.be/eyXynZTshP0?t=174)  
 
