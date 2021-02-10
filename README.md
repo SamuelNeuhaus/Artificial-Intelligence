@@ -104,6 +104,74 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Chapter homework: None
       - Project: None
 
+1. **03/04**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Chapter 22
+      - Quiz: Chapter 22
+      - Chapter homework: Chapter 22 (Natural Language Processing)
+      - Project: None
+
+1. **03/11**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Chapter 24
+      - Quiz: Chapter 24
+      - Chapter homework: Chapter 24 (Perception)
+      - Project: None
+
+1. **03/18**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Chapter 25
+      - Quiz: Chapter 25
+      - Chapter homework: None
+      - Project: None
+
+1. **03/25**
+   - Class meeting to discuss project phase II
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Chapter homework: None
+      - Project: None
+
+1. **04/01**
+   - Spring break
+
+1. **04/08**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Chapter 26
+      - Quiz: Chapter 26
+      - Chapter homework: None
+      - Project: Phase II
+
+1. **04/15**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Fair Artificial Intelligence
+      - Quiz: Fair Artificial Intelligence
+      - Chapter homework: None
+      - Project: None
+
+1. **04/22**
+   - No class meeting scheduled
+   - Due next week:
+      - Concept map homework: Fair Artificial Intelligence
+      - Quiz: Fair Artificial Intelligence
+      - Chapter homework: None
+      - Project: Phase III
+      
+1. **04/29**
+   - Support for project
+   
+1. **05/06**
+   - Final project report submission opens
+
+1. **05/13**
+   - Final project report submission closes
+
 ## 9. Academic dishonesty
 Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.
 
