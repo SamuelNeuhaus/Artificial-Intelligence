@@ -89,7 +89,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **02/18**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 5
       - Quiz: Chapter 5
@@ -97,7 +97,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: Phase I
 
 1. **02/25**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 7
       - Quiz: Chapter 7
@@ -105,7 +105,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **03/04**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 22
       - Quiz: Chapter 22
@@ -113,7 +113,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **03/11**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 24
       - Quiz: Chapter 24
@@ -121,7 +121,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **03/18**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 25
       - Quiz: Chapter 25
@@ -129,7 +129,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **03/25**
-   - Class meeting to discuss project phase II
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: None
       - Quiz: None
@@ -140,7 +140,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
    - Spring break
 
 1. **04/08**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Chapter 26
       - Quiz: Chapter 26
@@ -148,7 +148,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: Phase II
 
 1. **04/15**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
       - Concept map homework: Fair Artificial Intelligence
       - Quiz: Fair Artificial Intelligence
@@ -156,10 +156,10 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **04/22**
-   - No class meeting scheduled
+   - No class meeting scheduled (but may be scheduled based on request)
    - Due next week:
-      - Concept map homework: Fair Artificial Intelligence
-      - Quiz: Fair Artificial Intelligence
+      - Concept map homework: None
+      - Quiz: None
       - Chapter homework: None
       - Project: Phase III
       
