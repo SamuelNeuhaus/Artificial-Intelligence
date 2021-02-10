@@ -89,7 +89,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: None
 
 1. **02/18**
-   - Meeting topics: QnA
+   - No class meeting scheduled
    - Due next week:
       - Concept map homework: Chapter 5
       - Quiz: Chapter 5
@@ -97,7 +97,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Project: Phase I
 
 1. **02/25**
-   - Meeting topics: QnA
+   - No class meeting scheduled
    - Due next week:
       - Concept map homework: Chapter 7
       - Quiz: Chapter 7
