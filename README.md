@@ -126,7 +126,7 @@ Artificial Intelligence: A Modern Approach (3rd Edition) by [Pearson](https://ww
       - Concept map homework: Chapter 25
       - Quiz: Chapter 25
       - Chapter homework: None
-      - Project: Phase I
+      - Project: None
 
 1. **03/25**
    - No class meeting scheduled (but may be scheduled based on request)
